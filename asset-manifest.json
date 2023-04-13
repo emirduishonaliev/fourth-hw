@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/fourth-hw/static/css/main.31d6cfe0.css",
+    "main.js": "/fourth-hw/static/js/main.301e700b.js",
+    "index.html": "/fourth-hw/index.html",
+    "main.301e700b.js.map": "/fourth-hw/static/js/main.301e700b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.301e700b.js"
+  ]
+}
